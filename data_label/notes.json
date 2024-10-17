@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Azadi"
+    },
+    {
+      "id": 1,
+      "name": "attack"
+    },
+    {
+      "id": 2,
+      "name": "fuck"
+    },
+    {
+      "id": 3,
+      "name": "sorat"
+    },
+    {
+      "id": 4,
+      "name": "taslim"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

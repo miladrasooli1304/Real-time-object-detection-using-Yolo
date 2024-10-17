@@ -1,0 +1,16 @@
+names:
+- Azadi
+- attack
+- fuck
+- sorat
+- taslim
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: 6object
+  # url: https://storage.googleapis.com/kaggle-data-sets/114322/272864/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240909%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240909T074419Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=3cf38050fe8682c1cbc9c4106bf074b15ec3531419160dbec94e7e8f177de1f21eeb0fa07a52f18e1ee9f73c4338388e047e10e85150676770bec1a226d4913ac94a178c0d37fb6d4e314ef321f3b847b682a2b26908be1f1a7fb7a460bf1cadb1e93d1d1f121237dceddd231ecd8e4aa01c32251fe77bc8da978d10b77747e863af1f0f68405bc0ae61140f36ab3490714959bb5764d9c1feffbd911148f981bf68d0ad40bea335ab966915a81233bf5baefcd462182b6cd48b4d11a1c626e0facc07f8e6620d7d02dd6958ca2c685e2eac9196cbb5fbae79ef3bd577ffbd6d50e67570033a50d1782c4ee642c3508337316898b3349a6e8a23fe046eb3fb10
+  version: 1
+  workspace: mmmm
+
+train: C:\Users\Hp\python\مبای ریاضی و هوش مصنوعی سرس کد ها\yolo8\Real_time_Object_Tracking\custom\data_label\images
+val: C:\Users\Hp\python\مبای ریاضی و هوش مصنوعی سرس کد ها\yolo8\Real_time_Object_Tracking\custom\data_label\val\img
